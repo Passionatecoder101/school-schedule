@@ -1,1 +1,20 @@
-you will have to compile your file in the command prompt before you run it, but then you will also have to run it as an exe file using (yourfilename.exe)
+you will have to compile your file in the command prompt before you run it, 
+but then you will also have to run it as an exe file using (yourfilename.exe)
+
+instructions on how to compile AND run the file for beginners:
+
+compile:
+
+1. go into your command prompt
+
+2. go to where your project is located (for me that would be Documents and then the respective folder)
+
+3. type g++ and then your file (dont forget the .cpp part!) (type
+
+now you should have an application in the same place as your source code!
+
+running the appliacation
+
+1. follow steps one and 2 from compile
+
+2. type in the name of your application file (don't forget the .exe!)
